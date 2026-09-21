@@ -60,3 +60,19 @@ BlockPuzzleGame/
 ├── gradlew.bat
 ├── settings.gradle.kts
 └── .gitignore
+
+```
+## Screenshots
+
+<p align="center">
+  <img width="1080" height="2400" alt="gameplay1" src="https://github.com/user-attachments/assets/e77852c1-1c2b-42f8-aa2f-6a34458c6db3" />
+  <img width="1080" height="2400" alt="gameplay2" src="https://github.com/user-attachments/assets/c8933a4e-6e38-4472-94c4-1be176353486" />
+  <img width="1080" height="2400" alt="gameplay3" src="https://github.com/user-attachments/assets/881ae31c-3e37-41ed-8364-8d67e383d28c" />
+  <img width="1080" height="2400" alt="gameplay4" src="https://github.com/user-attachments/assets/b3705a26-3b86-4257-9bdb-f70b2154bb7e" />
+  <img width="1080" height="2400" alt="gameplay5" src="https://github.com/user-attachments/assets/08da6e7c-991d-4902-8605-d9d6d3cb9baa" />
+
+</p>
+
+<p align="center">
+  <em>Drag-and-drop shapes, clear lines, and chase your high score!</em>
+</p>
